@@ -3,27 +3,27 @@ function Info() {
         {
             id: 1,
             name: "Top Restaurants",
-            image: "public/newly.avif",
+            image: "/1.jpg",
         },
         {
             id: 2,
             name: "Cozy Cafes",
-            image: "public/trending.avif",
+            image: "/2.webp",
         },
         {
             id: 3,
             name: "Trendy Pubs",
-            image: "public/gujrati.avif",
+            image: "/3.jpg",
         },
         {
             id: 4,
             name: "Top Restaurants",
-            image: "public/newly.avif",
+            image: "/4.jpeg",
         },
         {
             id: 5,
             name: "Best Bars",
-            image: "public/buffets.avif",
+            image: "/5.webp",
         },
     ];
 

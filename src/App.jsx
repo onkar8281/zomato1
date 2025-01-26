@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 import HeroSection from './HeroSection';
 import CardsComponent from './CardsComponent';
 import Footer from './Footer';
-import Info from './info';
+import Info from './Info';
 import City from './city';
 import MyTable from './MyTable';
 function App (){
