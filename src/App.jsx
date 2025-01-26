@@ -4,7 +4,7 @@ import HeroSection from './HeroSection';
 import CardsComponent from './CardsComponent';
 import Footer from './Footer';
 import Info from './Info';
-import City from './city';
+import City from './City';
 import MyTable from './MyTable';
 function App (){
     return(
